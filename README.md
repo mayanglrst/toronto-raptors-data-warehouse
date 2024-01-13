@@ -10,3 +10,4 @@ The data warehouse contains two data marts:
 1. Player performance datamart
 2. Team performance datamart
 
+Presentation link: https://docs.google.com/presentation/d/1ZgN4h-3-NvAS-to1vI662kSEmq03bGD-hZSa9QC8b7A/edit?usp=sharing
